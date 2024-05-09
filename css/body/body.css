@@ -1,7 +1,8 @@
 .body{
     width: 99vw;
     height: 99vh;
-    margin: 0;
-    border: 5px solid #008000;
+    margin: auto;
+    padding: auto;
+    border: 5px solid green;
     overflow-x: hidden;
 }
